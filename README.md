@@ -1,6 +1,14 @@
 **Hello from Recife, PE. Web Developer at MELHOR COMUNICAÇÃO** 
 Currently learning ReactJS 🤖
 
+**About me**
+
+Since forever studying to become the best version of myself. In 2020 I've decided to dive into the IT World, and honestly, that was one of the bests decisions I have made.
+I am currently working as a Front-end developer, using HTML5, CSS3, Bootstrap5, JAVASCRIPT, WORDPRESS, PHP and a little bit of MySQL.
+They were also a self-taught, currently learning ReactJS, which I used in some personal projects. Always willing to learn.
+Iam aiming to learn NodeJS and MongoDB, but step-by-step!
+
+
    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     </a>
