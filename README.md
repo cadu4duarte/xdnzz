@@ -27,8 +27,9 @@ Iam aiming to learn NodeJS and MongoDB, but step-by-step!
    <a href="https://dev.mysql.com/">
     <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     </a>
-          
     <a href="https://pt-br.reactjs.org">
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     </a>
+          
+   
  
