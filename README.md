@@ -3,10 +3,10 @@ Currently learning ReactJS 🤖
 
 **About me**
 
-Since forever studying to become the best version of myself. In 2020 I've decided to dive into the IT World, and honestly, that was one of the bests decisions I have made.
-I am currently working as a Front-end developer, using HTML5, CSS3, Bootstrap5, JAVASCRIPT, WORDPRESS, PHP and a little bit of MySQL.
-They were also a self-taught, currently learning ReactJS, which I used in some personal projects. Always willing to learn.
-Iam aiming to learn NodeJS and MongoDB, but step-by-step!
+Been studying to achieve the best version of myself. In 2020, I decided to dive into IT World. Honestly, this has been the best decision I have made.
+Currently working as a Front-end developer, using HTML5, CSS3, Bootstrap5, JAVASCRIPT, WORDPRESS, PHP and little of MySQL.
+Self-taught; willingness to learn; currently learning ReactJS, which I used in some personal projects.
+Seeking to learn NodeJS and MongoDB. One step at a time, though.
 
 
    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
